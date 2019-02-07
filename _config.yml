@@ -1,7 +1,7 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           /blog/
+permalink:           PRETTT
 
 # Setup
 title:               Let's try blog
@@ -10,7 +10,7 @@ description:         'Personal blog'
 url:                 http://acatwang.github.io
 baseurl:             '/blog/'
 paginate:            5
-root: /octo-5
+root: /awangtryblog
 
 # About/contact
 author:
